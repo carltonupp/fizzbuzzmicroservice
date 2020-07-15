@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz", "FizzBuzz\FizzBuzz.fsproj", "{356AC8C6-49F1-4CB3-91C9-B37C00DECBB0}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz", "src\FizzBuzz\FizzBuzz.fsproj", "{356AC8C6-49F1-4CB3-91C9-B37C00DECBB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
